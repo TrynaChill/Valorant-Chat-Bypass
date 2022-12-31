@@ -2,7 +2,6 @@
 Its a basic python program for bypassing the valorant chat filter so that you dont get censored.
 
 Warning⚠
-
 Activate it only when you have open the chat. If you have it open while playing you won't be able to move
 
 How To Use It
