@@ -9,3 +9,6 @@ Activate it only when you have open the chat. If you have it open while playing 
 1. Download the .exe
 2. Open the .exe (you can do it either before or after opening Valorant)
 3. Use F3 for activating it, and F2 for deactivating it
+
+## Tutorial
+[Tutorial of how to use the program](https://www.youtube.com/watch?v=_E_k8YG3_ZU)
